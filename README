@@ -1,5 +1,7 @@
-Compile:
+Feel free to modify anything in this project.
+
+== Building ==
 make
 
-Run:
-./bin/tetris
+== Running ==
+make run
